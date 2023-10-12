@@ -1,9 +1,6 @@
-late var value = getValue();
-print('Display Value');
-print(value);
-}
+void main () {
+  String name;
+  name='johanna';
 
-String getValue(){
-  print('getValue dipanggil');
-  return 'Johanna Angelica';
+  print(name);
 }

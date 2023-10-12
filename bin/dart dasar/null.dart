@@ -1,7 +1,13 @@
-void main () {
-  int number1;
-  int? number2;
+main(List<String> args) {
+  String? name = null;
 
-  print(number1); //error
-  print(number2); //null
+  checkName(name); //ERROR PADA COMPILER
+}
+
+checkName(String name) {
+  if (name == null) {
+    print("Name is null");
+  } else {
+    print("Name is not null");
+  }
 }

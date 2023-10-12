@@ -1,5 +1,5 @@
-void main () {
-  var person1 = Person();
-
-  Person person2 = Person();
+Employee emp = new Employee(); {
+emp.id = 1;
+emp.name = "Johanna Anegelica";
+emp.displayEmployeeDetails();
 }

@@ -1,5 +1,5 @@
 class Application {
-  static final String author = "putri setyowati";
+  static final String author = "johanna angelica";
   static final String name = "Belajar Pemrograman dart";
 }
 
@@ -26,7 +26,7 @@ class Validation {
       throw ValidationException("Username is blank");
     } else if (password == "") {
       throw ValidationException("Password is blank");
-    } else if (username != 'Julia' || password != 'Julia') {
+    } else if (username != 'Bayu' || password != 'Bayu') {
       throw Exception('Login failed');
     }
   }
@@ -34,7 +34,7 @@ class Validation {
 }
 
 void main1() {
-  Validation.validate("putri", "");
+  Validation.validate("johanna", "johanna");
 
   try {
     Validation.validate("", "");

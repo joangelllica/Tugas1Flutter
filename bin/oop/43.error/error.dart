@@ -1,5 +1,5 @@
 void main() {
-  var list = ["putri", "deni", "aku"];
+  var list = ["johanna", "bayu", "saya"];
 
   print(list[10]);
 }

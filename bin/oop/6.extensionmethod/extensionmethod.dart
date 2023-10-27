@@ -8,6 +8,6 @@ extension GoodByeOnPerson on Person {
 
 void main() {
   var person = Person();
-  // person.name = "putri";
-  person.sayGoodBye("putri");
+  // person.name = "johanna";
+  person.sayGoodBye("johanna");
 }

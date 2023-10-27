@@ -10,7 +10,7 @@ class Person {
   Person.withAddress(this.address) {}
 
 // menggunakan named constructor
-  var person = Person.withName("putri setyowati");
-  var person2 = Person.withAddress("deni");
-  var person3 = Person("putri", "batulicin");
+  var person = Person.withName("johanna angelica");
+  var person2 = Person.withAddress("bayu");
+  var person3 = Person("johanna", "kapaus");
 }

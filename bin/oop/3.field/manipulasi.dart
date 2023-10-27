@@ -1,7 +1,7 @@
 //class person{
 // manipulasi field
 //var person = Person();
-//person.name = "Putri setyowati";
+//person.name = "johanna angelica";
 //person.address = "subang";
 //person.country = "tidak bisa di ubah";
 

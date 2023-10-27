@@ -1,7 +1,7 @@
 class Person {
-  String name = "putri";
+  String name = "johanna";
   String? address;
-  final String country = "Indinesia";
+  final String country = "Indonesia";
 
   Person(String paraName, String paraAddress) {
     name = paraName;

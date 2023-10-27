@@ -13,10 +13,10 @@ class Manager {
   //}
 
   void main() {
-    var manager = Manager("putri");
-//    manager.sayHello('deni');
+    var manager = Manager("johanna");
+//    manager.sayHello('bayu');
 
-  //  var vp = VicePresident("putri setyowati");
-//    vp.sayHello('deni');
+  //  var vp = VicePresident("johanna angelica");
+//    vp.sayHello('bayu');
   }
 }

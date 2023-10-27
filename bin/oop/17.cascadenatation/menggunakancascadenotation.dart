@@ -6,7 +6,7 @@ class User {
 
 void main() {
   var user = User()
-    ..username = "putri"
-    ..name = "putri pucuk"
-    ..email = "putri@gmail.com";
+    ..username = "johanna"
+    ..name = "johanna angelica"
+    ..email = "johanna@gmail.com";
 }

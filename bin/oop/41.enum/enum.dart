@@ -8,7 +8,7 @@ class Customer {
 }
 
 void main() {
-  var customer = Customer("putri", customerLevel.vip);
+  var customer = Customer("johanna", customerLevel.vip);
 
   print(customer.name);
   print(customer.level);

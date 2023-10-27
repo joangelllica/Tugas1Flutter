@@ -21,7 +21,7 @@ typedef Filter = String Function(String);
 
 void sayHello(String name, Filter filter) {
   print('Hello ${filter(name)}');
-  sayHello('putri', (name) => name.toUpperCase());
+  sayHello('johanna', (name) => name.toUpperCase());
 }
 
 // void main() {
